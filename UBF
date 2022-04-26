@@ -1,0 +1,19 @@
+{
+    "Sheet1": [
+        {
+            "User Email": "kavitha.murugesan@syncfusion.com",
+            "User Full name": "Kavitha Murugesan",
+            "Value": "100"
+        },
+        {
+            "User Email": "aarthi.shanmugam@syncfusion.com",
+            "User Full name": "Aarthi Shanmugam",
+            "Value": "200"
+        },
+        {
+            "User Email": "akalya.selvaraj@syncfusion.com",
+            "User Full name": "Akalya Selvaraj",
+            "Value": "300"
+        }
+    ]
+}
